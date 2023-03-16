@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Andrea</h1>
 <h3 align="left">A computer engineering student from Politecnico di Milano.<br> Interested in learning something new.</h3>
 
-- 🔭 I’m currently working on **web development**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **school projects**
 
 - ⚡ Hobbies **⚽🎮🎧✈️**
 
